@@ -20,8 +20,4 @@
   </center>
 </div>
 
-<div style="width:300px">
-  
-  ![](https://user-images.githubusercontent.com/43310141/215541115-1d7753dc-a5b6-4a0d-ba45-70bbebb46401.png)
-  </div>
-
+![깃헙용](https://user-images.githubusercontent.com/43310141/215546184-97275b54-ae9e-4d01-b870-ff80c923a33d.png)
