@@ -11,6 +11,11 @@
 
 ---
 
-<center><h2> 기술 스택 </h2></center>
-
+<center><h2> I'm interested in </h2></center>
+<div display="flex">
+  <center>
 <img src="https://img.shields.io/badge/RenPy-FF7F7F?style=for-the-badge&logo=RenPy&logoColor=white">
+<img src="https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  </center>
+</div>
