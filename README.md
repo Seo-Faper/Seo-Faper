@@ -11,7 +11,6 @@
 
 ---
 
-<center><h2> I'm interested in </h2></center>
 <div display="flex">
   <center>
 <img src="https://img.shields.io/badge/RenPy-FF7F7F?style=for-the-badge&logo=RenPy&logoColor=white">
