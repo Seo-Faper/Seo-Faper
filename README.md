@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  ## Now I'm Studying 
+  ## Skill Stack
   
   
   <center>
@@ -30,13 +30,3 @@
   </center>
 </div>
 
----
-  
-  <div align = "center">
-    
-    
-    
-    
-    
-  </div>
-  
