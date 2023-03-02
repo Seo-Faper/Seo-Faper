@@ -11,9 +11,7 @@
 
 
 <div anlign="center">
-  
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faper)
-  
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=faper">
   - 청주대학교 디지털보안학과 20학번 서종찬
  
   - 현 디지털보안학과 동아리 NaN 부회장
