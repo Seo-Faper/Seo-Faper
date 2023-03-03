@@ -29,9 +29,9 @@
 
   ## Language & Tools 
   
-  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
   <img height="60" width="60" src="https://cdn.simpleicons.org/python/#3776AB" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/lua/#2C2D72" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/lua/#2C2D72" />
   <br>
   <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/vim/#019733" />
