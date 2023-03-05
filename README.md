@@ -14,10 +14,10 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=faper">
   - 청주대학교 디지털보안학과 20학번 서종찬
  
-  - 현 디지털보안학과 동아리 NaN 부회장
+  - 현 디지털보안학과 개발 동아리 NaN 부회장
   - 2020 리눅스마스터 2급, 네트워크관리사 2급, 인터넷보안 전문가 2급 취득
-  - 2021 국방 SW 해커톤 우승 🎖️ (국방부장관상)
-  - 2022 해군 창업 경진 대회 우승 (해군 참모총장상)
+  - 2021 SW 개발 경진대회 장관상 
+  - 2022 해군 창업 경진 대회 우승
   - 해군 정보보호병 만기 전역 (Computer Emergency Response Team)
 </div>
   
