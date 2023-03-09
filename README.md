@@ -3,7 +3,7 @@
   
   <div align="center">
   
-  #  Github Page
+  # 서종찬 Github Page
   
   </div>
   
