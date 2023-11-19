@@ -36,8 +36,14 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </div>
 
-## Reword
+## Awards
 
 - 2021 군 장병 공개 SW 해커톤 최우수 🎖️ 국방부장관상
 - 2022 해군 창업 경진 대회 우수 🥉 해군참모총장상
 - 2023 KDFS 대상 🎖️ 경찰청장상
+
+## Certificate
+
+- 2020 리눅스 마스터 2급
+- 2021 네트워크 관리사 2급
+- 2021 인터넷 보안 전문가 2급
