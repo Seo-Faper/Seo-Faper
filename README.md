@@ -36,3 +36,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </div>
 
+## Reword
+
+- 2021 군 장병 공개 SW 해커톤 최우수 🎖️ 국방부장관상
+- 2022 해군 창업 경진 대회 우수 🥉 해군참모총장상
+- 2023 KDFS 대상 🎖️ 경찰청장상
