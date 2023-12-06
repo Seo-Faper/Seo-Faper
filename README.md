@@ -39,6 +39,7 @@
 ## Awards
 
 - 2021 군 장병 공개 SW 해커톤 최우수 🎖️ 국방부장관상
+- 2022 해군 창업 경진 대회 수상
 - 2023 KDFS Challenge 대상 🎖️ 경찰청장상
 
 ## Certificate
