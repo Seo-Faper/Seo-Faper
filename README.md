@@ -48,4 +48,7 @@
 - 2021 네트워크 관리사 2급
 - 2021 인터넷 보안 전문가 2급
 
-- Team H4C 
+## Organization
+- Korea Navy CERT (2021. 04. 05 ~2022. 12. 04)
+- Best of the Best 12 th Digital Forensics
+- Team H4C
