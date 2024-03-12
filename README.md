@@ -42,13 +42,13 @@
 - 2022 해군 창업 경진 대회 수상
 - 2023 KDFS Challenge 대상 🎖️ 경찰청장상
 
-## Certificate
+## Certificates
 
 - 2020 리눅스 마스터 2급
 - 2021 네트워크 관리사 2급
 - 2021 인터넷 보안 전문가 2급
 
-## Organization
+## Organizations
 - Korea Navy CERT (2021. 04. 05 ~2022. 12. 04)
 - Best of the Best 12 th Digital Forensics
 - Team H4C / D4C
