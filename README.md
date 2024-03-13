@@ -45,6 +45,10 @@
 
 ### Featured Projects
 
-<a href="https://github.com/Seo-Faper/ai_web_RISKOUT_BTS">
+<a href="https://www.github.com/Dvd848/riskout">
     <img src="images/riskout.svg" alt="Risk Out" align="left" />
+</a>
+
+<a href="https://www.github.com/Dvd848/webtopsy">
+    <img src="images/webtopsy.svg" alt="Webtopsy" align="left" />
 </a>
