@@ -4,7 +4,84 @@
       "id": "pytai",
       "title": "pytai",
       "description": "A Hex Viewer that allows exploring binaries based on their logical structure",
-      "image": "https://github.com/Seo-Faper/ai_web_RISKOUT_BTS/blob/master/risk.PNG",
+      "image": "https://raw.githubusercontent.com/Seo-Faper/ai_web_RISKOUT_BTS/master/risk.PNG",
+      "align_image": "top"
+    },
+    {
+      "id": "the-last-word",
+      "title": "The Last Word",
+      "description": "An online Scrabble™-like game for one or two players",
+      "image": "https://github.com/Dvd848/the-last-word/raw/main/screenshots/game1.png",
+      "align_image": "top"
+    },
+    {
+      "id": "hTXT-Viewer",
+      "title": "hTXT Viewer",
+      "description": "A set of tools for viewing Hebrew DOS Text files / An online NFO viewer",
+      "image": "https://github.com/Dvd848/hTXT-Viewer/raw/main/examples/ULTI-01.png",
+      "align_image": "top"
+    },
+    {
+      "id": "bonus-board-state-editor",
+      "title": "Bonus Board State Editor",
+      "description": "Cheat in Bonus (Scrabble™ game for DOS) by modifying the board state",
+      "image": "https://github.com/Dvd848/bonus-board-state-editor/raw/main/docs/game1.png",
+      "align_image": "center"
+    },
+    {
+      "id": "cryptic-crossword",
+      "title": "Cryptic Crossword",
+      "description": "An interactive web interface for a weekly cryptic crossword",
+      "image": "https://github.com/Dvd848/cryptic-crossword/raw/main/screenshots/img1.png",
+      "align_image": "top"
+    },
+    {
+      "id": "Crossword-Solver",
+      "title": "Crossword Solver",
+      "description": "A utility to help identify missing words in crossword puzzles based on existing letters",
+      "image": "https://github.com/Dvd848/Crossword-Solver/raw/main/images/screenshot1.png",
+      "align_image": "top"
+    },
+    {
+      "id": "CTFs",
+      "title": "CTFs",
+      "description": "Writeups for various CTFs",
+      "image": "https://github.com/Dvd848/CTFs/raw/master/2021_BSidesTLV/images/top3.png",
+      "align_image": "top"
+    },
+    {
+      "id": "filter-ctftime-writeups",
+      "title": "Writeup Feed Filter",
+      "description": "Filter the CTFTime writeups RSS feed",
+      "image": "https://github.com/Dvd848/filter-ctftime-writeups/raw/master/images/filter_page.png",
+      "align_image": "top"
+    },
+    {
+      "id": "home_finder",
+      "title": "Home Finder",
+      "description": "Search Facebook groups for apartments for rent more efficiently",
+      "image": "https://github.com/Dvd848/home_finder/raw/master/images/screenshots/3.png",
+      "align_image": "top"
+    },
+    {
+      "id": "home_finder_ext",
+      "title": "Home Finder Extension",
+      "description": "A browser extension that enhances Facebook group posts for apartment rentals by adding metadata to them",
+      "image": "https://github.com/Dvd848/home_finder_ext/raw/main/docs/demo6.png",
+      "align_image": "top"
+    },
+    {
+      "id": "macro_keyboard",
+      "title": "Toddler Jukebox",
+      "description": "Create a jukebox for toddlers by utilizing a numpad, a Raspberry PI and a media center",
+      "image": "https://github.com/Dvd848/macro_keyboard/raw/main/docs/images/background.png",
+      "align_image": "top"
+    },
+    {
+      "id": "RgEdt",
+      "title": "RgEdt",
+      "description": "A Basic UI to view and edit a selected subset of the Windows Registry",
+      "image": "https://github.com/Dvd848/RgEdt/raw/master/docs/images/main_window.png",
       "align_image": "top"
     }
   ]
