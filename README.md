@@ -46,15 +46,15 @@
 
 ### Featured Projects
 
-<a href="https://www.github.com/Dvd848/riskout">
+<a href="https://www.github.com/Seo-Faper/riskout">
     <img src="images/riskout.svg" alt="Risk Out" align="left" />
 </a>
 
-<a href="https://www.github.com/Dvd848/webtopsy">
+<a href="https://www.github.com/Seo-Faper/webtopsy">
     <img src="images/webtopsy.svg" alt="Webtopsy" align="left" />
 </a>
 
-<a href="https://www.github.com/Dvd848/sigmadf">
-    <img src="images/sigmadf.svg" alt="Sigma DF" align="left" />
+<a href="https://www.github.com/Seo-Faper/redg_intro">
+    <img src="images/redg_intro.svg" alt="Sigma DF" align="left" />
 </a>
 

@@ -115,6 +115,6 @@ with open(base_path / "template.svg",  encoding='UTF8') as template_file,  \
             contents = contents.replace("##ALIGN_IMAGE##", project["align_image"])
             out.write(contents)
 
-        readme_file.write(f'<a href="https://www.github.com/Dvd848/{project["id"]}">\n')
+        readme_file.write(f'<a href="https://www.github.com/Seo-Faper/{project["id"]}">\n')
         readme_file.write(f'    <img src="images/{project["id"]}.svg" alt="{project["title"]}" align="left" />\n')
         readme_file.write(f'</a>\n\n')
