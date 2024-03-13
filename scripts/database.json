@@ -2,8 +2,8 @@
   "projects": [
     {
       "id": "pytai",
-      "title": "pytai",
-      "description": "A Hex Viewer that allows exploring binaries based on their logical structure",
+      "title": "Risk Out",
+      "description": "Risk Out",
       "image": "https://raw.githubusercontent.com/Seo-Faper/ai_web_RISKOUT_BTS/master/risk.PNG",
       "align_image": "top"
     },
