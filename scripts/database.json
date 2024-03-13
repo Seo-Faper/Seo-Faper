@@ -10,8 +10,15 @@
     {
       "id": "webtopsy",
       "title": "Webtopsy",
-      "description": "Digital forensics Audit trace tool",
+      "description": "Digital forensics Audit trace tool (Best of the Best 12th Project)",
       "image": "https://github.com/JJutopsy/Webtopsy/blob/main/webtopsy.png?raw=true",
+      "align_image": "top"
+    },
+    {
+      "id": "sigmadf",
+      "title": "Sigma DF",
+      "description": "Digital forensics Report Assistants Solution (Best of the Best 12th Project)",
+      "image": "https://github.com/BoB-12-GrandPrix-Team-DP/DGA/blob/main/Frame%20228.png?raw=true",
       "align_image": "top"
     }
   ]
