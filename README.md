@@ -1,4 +1,3 @@
-
   <div align="center">
   
   # 서종찬 Github Page
@@ -46,7 +45,6 @@
 
 ### Featured Projects
 
-<a href="https://www.github.com/Dvd848/riskout">
+<a href="https://github.com/Seo-Faper/ai_web_RISKOUT_BTS">
     <img src="images/riskout.svg" alt="Risk Out" align="left" />
 </a>
-
