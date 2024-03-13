@@ -10,11 +10,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeo-Faper&count_bg=%23005288&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<div anlign="center">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=faper">
 
-</div>
-  
 ---
 
 
@@ -50,5 +46,5 @@
 
 ## Organizations
 - Korea Navy CERT (2021. 04. 05 ~2022. 12. 04)
-- Best of the Best 12 th Digital Forensics
+- Best of the Best 12 th Digital Forensics (2023. 07. 01 ~2024. 03. 22)
 - Team H4C / D4C
