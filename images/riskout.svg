@@ -3,43 +3,42 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .card {
-                margin: 10px;
-                background-color: #fefefe;
-                border-radius: 10px;
-                box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
-                overflow: hidden;
-                width: 360px;
-                height: 330px;
-                font-family: Arial;
+                    margin: 10px;
+                    background-color: #fefefe;
+                    border-radius: 10px;
+                    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+                    overflow: hidden;
+                    width: 360px;
+		    height: 330px;
+                    font-family: Arial;
                 }
 
                 .card-header img {
-                width: 100%;
-                height: 200px;
-                object-fit: cover;
-                object-position: top;
+                    width: 100%;
+                    height: 200px;
+                    object-fit: cover;
+                    object-position: top;
                 }
-
+                
                 .card-body {
-                display: flex;
-                flex-direction: column;
-                padding: 15px;
+                    display: flex;
+                    flex-direction: column;
+                    padding: 15px;
                 }
 
                 .card-body strong {
-                font-size: 19px;
+                    font-size: 19px;
                 }
 
                 .card-body p {
-                font-size: 17px;
-                margin: 10px 0;
+                    font-size: 17px;
+                    margin: 10px 0;
                 }
             </style>
 
             <div class="card">
                 <div class="card-header">
-                    <img
-                        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyEAAAHFCAYAAADlpPZOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyEAAAHFCAYAAADlpPZOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe7P3ts3XPWR925h+YF1OpyrxLinFZ
 LhCg598PBALxIASiQJIxwhAQElAWNpZdgDQI2TFIWLLEQ5wSIWXs8GBciFSMBoXB2Bljv4hJiipT
 U6QSKg84xk4Fx4SJqyg7xI7HOdOfa63vOn369N5nn7P3Ofe573u/+Fb36tV99dUPV/f1Xb3W3v/a
@@ -3535,16 +3534,15 @@ bnzr/e1t8Stt3c8gtG4/Zfdj5Vtxprt8nbJB2nq56o1Ml+38oe10KbvfaYPM0dDwoSvX+5d2ZedJ
 Pe3RlXp0pM21uvFynfnS9UUuvL099bVNCV1PkD6Hb6WnHTpvp63Xt0DHrj3w53p37V1//Agt16vu
 7s89u/foK1Z7xqPPl87Ty06H6Oj6wrfK6k94Uva4RK63dR3a4mO3ERll6mkPVt1db9d1j08ZWpdR
 5loJ2qNjpYXe29Sjt6Pz7Oi9XZn1FWjrCB/7t8DusfdPH1JXxnZHp6W+lqtMfLoFsqlHR+TO7Nwr
-M5f86fLotn7/jr/z73rz/wF0DufQiPUh6gAAAABJRU5ErkJggg=="
-                        alt="Risk Out" />
+M5f86fLotn7/jr/z73rz/wF0DufQiPUh6gAAAABJRU5ErkJggg==" alt="Risk Out" />
                 </div>
                 <div class="card-body">
                     <strong>Risk Out</strong>
                     <p>
-                        국방부 장관상 받음 ㅋ
+                        Risk Out
                     </p>
                 </div>
             </div>
         </div>
-    </foreignObject>
+  </foreignObject>
 </svg>
