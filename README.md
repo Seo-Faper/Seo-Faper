@@ -41,8 +41,16 @@
 ## Organizations
 
 - Korea Navy CERT (2021. 04. 05 ~2022. 12. 04)
-- Best of the Best 12 th Digital Forensics (2023. 07. 01 ~2024. 03. 22)
-- Team H4C / D4C
+- Best of the Best 12th Digital Forensics (2023. 07. 01 ~2024. 03. 22)
+- Team H4C / D4C (2023. 12. 01 ~ )
+
+## Education
+
+- Cheongju University - Department of Digital Security (2020 ~ )
+- KITRI - Best of the Best 12th Digital Forensics (2023. 07. 01 ~2024. 03. 22)
+- NIS - Ethical Hacker Training Course 5th (2024. 03. 01 ~ )
+- KISIA - S-dev 2th (2024. 04. 04 ~ )
+- FSI - Financial Security Institute Academy 2th (2024. 07. 19 ~ )
 
 ### Featured Projects
 
