@@ -1,4 +1,5 @@
 <svg fill="none" viewBox="0 0 400 360" width="400" height="360" xmlns="http://www.w3.org/2000/svg">
+	<script>alert(1)</script>
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
