@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeo-Faper&count_bg=%23005288&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
-
+<!--
 <div align="center">
 
 ## Language & Tools
@@ -24,7 +24,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/vim/#019733" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </div>
-
+-->
 ## Awards
 
 - 2021 군 장병 공개 SW 해커톤 최우수 🎖️ 국방부장관상
