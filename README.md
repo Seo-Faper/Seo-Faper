@@ -31,7 +31,7 @@
 - 2022 해군 창업 경진 대회 수상
 - 2023 KDFS Challenge 대상 🎖️ 경찰청장상 1,500,000 KRW
 - 2024 국제 대학생 사이버 보안 경진 대회 (핵테온 세종) 우수 500,000 KRW
-- 2024 Digital Forensics Challenge 학생부 우승 2,000,000 KRW
+- 2024 Digital Forensics Challenge 학생부 winner 🎖️ 2,000,000 KRW
 
 ## Organizations
 
