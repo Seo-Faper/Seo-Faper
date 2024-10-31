@@ -46,7 +46,7 @@
 - KITRI - Best of the Best 12th Digital Forensics (2023. 07. 01 ~2024. 03. 22)
 - NIS - Ethical Hacker Training Course 5th (2024. 02. 01 ~ 08.09)
 - KISIA - S-dev 2th (2024. 04. 04 ~ )
-- FSI - Financial Security Institute Academy 2th (2024. 07. 19 ~ )
+- FSI - Financial Security Institute Academy 2th (2024. 07. 19 ~ 11.01)
 
 ### Featured Projects
 
