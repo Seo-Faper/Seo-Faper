@@ -31,7 +31,7 @@
 - 2022 해군 창업 경진 대회 수상
 - 2023 KDFS Challenge 대상 🎖️ 경찰청장상 이멋진세계에디포를 1,500,000 KRW
 - 2024 국제 대학생 사이버 보안 경진 대회 (핵테온 세종) 우수 성호야군대가자 500,000 KRW
-- 2024 FIESTA 9th 금붕어 아카데미
+- 2024 Financial Security Institute Academy 우수 🥈 금붕어 아카데미 2,000,000 KRW
 - 2024 Digital Forensics Challenge 학생부 winner 🎖️ Chapssal_Tangsuyuk 2,000,000 KRW
 
 ## Organizations
