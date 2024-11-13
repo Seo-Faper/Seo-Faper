@@ -33,6 +33,7 @@
 - 2024 국제 대학생 사이버 보안 경진 대회 (핵테온 세종) 우수 성호야군대가자 500,000 KRW
 - 2024 Financial Security Institute Academy 우수 🥈 금붕어 아카데미 2,000,000 KRW
 - 2024 Digital Forensics Challenge 학생부 winner 🎖️ Chapssal_Tangsuyuk 2,000,000 KRW
+- 2024 정보보호 교육·훈련 사이버공격ㆍ방어 시나리오 경진대회 최우수 (보안 인프라 공격을 통한 해군 내부망 정보유출 시나리오) 한국방송통신전파진흥원(KCA)장상 
 
 ## Organizations
 
