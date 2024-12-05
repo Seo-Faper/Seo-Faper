@@ -35,6 +35,7 @@
 - 2024 Digital Forensics Challenge 학생부 winner 🎖️ Chapssal_Tangsuyuk 2,000,000 KRW
 - 2024 정보보호 교육·훈련 사이버공격ㆍ방어 시나리오 경진대회 최우수 (보안 인프라 공격을 통한 해군 내부망 정보유출 시나리오) 한국방송통신전파진흥원(KCA)장상 200,000 KRW
 - 2024 ELECCON 2위 🥈 한전시장상 청주 2인조 강도단 500,000 KRW
+- 2024 KDFS Challenge 대상 🎖️ 경찰청장상 GoNe 1,500,000 KRW
 ## Organizations
 
 - Korea Navy CERT (2021. 04. 05 ~2022. 12. 04)
